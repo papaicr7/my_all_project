@@ -1,0 +1,7 @@
+product_api/
+├── .env
+├── app.py
+├── database.py
+├── models.py
+├── schemas.py
+└── requirements.txt
