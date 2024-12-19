@@ -7,6 +7,6 @@ Email-id  = dipyamandas96@gmail.com
 
 Project 1 : Banking system of any bank in python 
 <br>
-Project 2 : 
+Project 2 : Food ordering application
 
 
