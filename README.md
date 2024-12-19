@@ -2,8 +2,11 @@
 My all project in Python Language
 <br>
 Author - Dipyaman Das (Papai)
-& Email-id  = dipyamandas96@gmail.com
+<br>
+Email-id  = dipyamandas96@gmail.com
 
-Project 1 : Banking system of any bank
+Project 1 : Banking system of any bank in python 
+<br>
+Project 2 : 
 
 
