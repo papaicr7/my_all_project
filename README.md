@@ -37,43 +37,43 @@ This repository contains a collection of projects developed in Python.
 
 #### 1. Banking System
 
-A simple banking system implemented in Python.
+--A simple banking system implemented in Python.
 
 #### 2. Food Ordering Application
 
-A basic food ordering application built using Python.
+--A basic food ordering application built using Python.
 
 #### 3. Calculator app in Python
 
-Calculator app is built with this library file ie. tkinter
+--Calculator app is built with this library file ie. tkinter
 
 #### 4. Any Star Pattern with python
 
-Built any Star Pattern with python just using this library file ie. Create_pattern
+--Built any Star Pattern with python just using this library file ie. Create_pattern
 
 #### 5.
 
-xxxxx
+--xxxxx
 
 #### 6.
 
-xxxxx
+--xxxxx
 
 #### 7.
 
-XXXXX
+--XXXXX
 
 #### 8.
 
-xxxxx
+--xxxxx
 
 #### 9.
 
-XXXXX
+--XXXXX
 
 #### 10.
 
-xxxxxx
+--xxxxxx
 
 ### Author Information
 
