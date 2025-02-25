@@ -12,6 +12,18 @@ Project 2 : Food ordering application
 Project 3 : Calculator app in python
 <br>
 Project 4 : Any Star Pattern with python
+<br>
+Project 5 : Tic Tac Toe game in python
+<br>
+Project 6 : Rock Paper Scissors game in python
+<br>
+Project 7 : Quiz game in python
+<br>
+Project 8 : Snake game in python
+<br>
+Project 9 : Hangman game in python
+<br>
+Project 10 : Any simple game in python
 
 
 # My All Projects
@@ -38,6 +50,30 @@ Calculator app is built with this library file ie. tkinter
 #### 4. Any Star Pattern with python
 
 Built any Star Pattern with python just using this library file ie. Create_pattern
+
+#### 5.
+
+xxxxx
+
+#### 6.
+
+xxxxx
+
+#### 7.
+
+XXXXX
+
+#### 8.
+
+xxxxx
+
+#### 9.
+
+XXXXX
+
+#### 10.
+
+xxxxxx
 
 ### Author Information
 
