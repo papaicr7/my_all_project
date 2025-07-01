@@ -30,3 +30,5 @@ class Product(Base):
     lead_time = Column(Integer)
     created_date = Column(DateTime, default=func.now())
     updated_date = Column(DateTime, default=func.now(), onupdate=func.now())
+
+#

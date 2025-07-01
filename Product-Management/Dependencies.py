@@ -1,6 +1,6 @@
 
 
-# Install dependencies
+# dependencies
 !pip install fastapi 
 !pip install sqlalchemy 
 !pip install pymysql 

@@ -18,3 +18,4 @@ DATABASE_URL = f"mysql+pymysql://{settings.db_user}:{settings.db_password}@{sett
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
+#
