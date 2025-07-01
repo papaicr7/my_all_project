@@ -31,4 +31,3 @@ class Product(Base):
     created_date = Column(DateTime, default=func.now())
     updated_date = Column(DateTime, default=func.now(), onupdate=func.now())
 
-#

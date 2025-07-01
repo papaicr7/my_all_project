@@ -6,4 +6,3 @@ product_api/
 ├── schemas.py
 └── requirements.txt
 
--------------------------
